@@ -1,1 +1,0 @@
-# Demo for I2C on Raspberry pi, with Raspberry as Master
